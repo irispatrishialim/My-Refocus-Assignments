@@ -14,7 +14,7 @@ I'm a graduate of Industrial Engineering and currently working as a Business Ana
 - Paint again in a canvas 🖌
 - Create a functional website 🖥
 
-## Reasons why I want to be a Web Developer 🕸
+## Reasons why I want to be a Web Developer
 - I want to have a wider opportunity in this industry
 - As a BA myself, I want to have better understanding on the development side
 - I want to write a code that leaves a great impact on a company someday!
