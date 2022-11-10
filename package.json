@@ -1,0 +1,23 @@
+{
+  "name": "my-refocus-assignments",
+  "version": "0.0.1",
+  "description": "Unit Testing",
+  "main": "bmi_calculator.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/irispatrishialim/My-Refocus-Assignments.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/irispatrishialim/My-Refocus-Assignments/issues"
+  },
+  "homepage": "https://github.com/irispatrishialim/My-Refocus-Assignments#readme",
+  "dependencies": {
+    "jest": "^29.3.1"
+  }
+}
